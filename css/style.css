@@ -169,6 +169,9 @@ body {
 }
 
 /* footer */
+.contacts {
+  background-color: #FFFFFF;
+}
 .contacts-text {
   flex-basis: 50%;
 }
