@@ -85,8 +85,9 @@ body {
   background-color: white;
   border-radius: 50%;
   background-image: url('../img/avatar.jpg');
+  background-size: cover;
   background-repeat: no-repeat;
-  background-position: center top -90px;
+  background-position: center top -75px;
   border: 13px solid white;
 }
 .hero-content {
