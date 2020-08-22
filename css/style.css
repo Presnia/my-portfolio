@@ -78,6 +78,10 @@ img {
   line-height: 14px;
   font-weight: bold;
   text-transform: uppercase;
+  cursor: pointer;
+}
+.button:hover {
+  color: tomato;
 }
 /* .hero-button {
   
@@ -103,8 +107,8 @@ img {
 .info {
   background-color: #000000;
 }
-.features {
-  /* background-color: #000000; */
+.swiper-slide-next {
+  opacity: 0;
 }
 .features-block {
   display: flex;
@@ -383,7 +387,7 @@ img {
     line-height: 140%;
   }
   .section {
-    padding: 0;
+    padding: 10px 0;
   }
   .section-title {
     font-size: 19px;
